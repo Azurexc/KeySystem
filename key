@@ -17,9 +17,9 @@ fwrite($fh, ''."".$ip ."\n");
 $keys = array(
 "GalaxyBoy",
 
-"Galaxy1"
+"bruh1"
 
-"Galaxy"
+"bruh"
 ); 
 $sub = $_GET["key"];
 if (in_array($sub,$keys,TRUE)) {
